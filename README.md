@@ -1,5 +1,4 @@
-# Full-Stack QA Automation Framework  
-*(Selenium + TestNG + POM + Allure Reporting + API + Database + CI/CD with GitHub Pages Dashboard)*
+# Full-Stack QA Automation Framework  *(Selenium + TestNG + POM + Allure Reporting + API + Database + CI/CD with GitHub Pages Dashboard)*
 
 
 This is a **Production-Grade** Automation Framework designed for **UI + API Testing** with a clean, modular structure using **Page Object Model (POM)**, **Data-Driven Testing**, **Allure Reporting**, and **Continuous Integration** via **GitHub Actions**.
@@ -12,14 +11,6 @@ This is a **Production-Grade** Automation Framework designed for **UI + API Test
 
 ---
 
-![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge)
-![TestNG](https://img.shields.io/badge/TestNG-Testing-blue?style=for-the-badge)
-![RestAssured](https://img.shields.io/badge/REST%20Assured-API%20Testing-yellow?style=for-the-badge)
-![Allure](https://img.shields.io/badge/Allure-Reporting-purple?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?style=for-the-badge)
-
----
 
 ## ✅ Key Features
 
